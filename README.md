@@ -9,12 +9,11 @@ ___
 ## Rutas de aprendizaje completadas
 - Google Actívate - Fundamentos de la Ciberseguridad
 - Cisco - Introduction to Cibersecurity
-
+- Linux Basico
   ___
 
   ## Actualmente  aprendiendo
   - TryHackMy - pre.security
-  - Linux basico
   - Phython para ciberseguridad
  
     ___
