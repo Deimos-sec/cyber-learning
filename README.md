@@ -24,7 +24,10 @@ ___
     ___
     
    ## Proyectos en Python
-    (Aqui ire subiendo mis primeros escripts basicos aplicados a seguridad)
+    Aquí iré subiendo mis primeros scripts aplicados a seguridad:
+
+- [Generador de contraseñas seguras](https://github.com/Deimos-sec/generador-contrasenas)
+- Próximos proyectos: Escáner de puertos, IDS básico, etc.
 
     ___
 
