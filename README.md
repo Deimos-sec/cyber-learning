@@ -24,7 +24,7 @@ ___
 
     ___
     
-   ## Scripts en Python
+   ## Proyectos en Python
     (Aqui ire subiendo mis primeros escripts basicos aplicados a seguridad)
 
     ___
